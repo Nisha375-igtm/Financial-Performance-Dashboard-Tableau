@@ -5,11 +5,21 @@ Interactive Tableau dashboard analyzing financial performance across products, c
 Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, COGS, Profit, Date, Month, Year
 
 ## Dashboard Sheets & Visuals
-Sheet   Chart Type  Metrics Analyzed 
-Sheet 1 Bar Chart   Profit & Sales by Country, Product, Segment
-Sheet 2 Line Chart  Monthly & Yearly Profit and Sales trends by Segment
-Sheet 3 Chart        Gross Sales vs Discounts by Product
-Sheet 4 Chart       Sales by Product and Discount Band
+Sheet 1 — Bar Chart
+
+Profit and Sales breakdown by Country, Product, and Segment
+
+Sheet 2 — Line Chart
+
+Monthly and yearly trends of Profit and Sales across Segments
+
+Sheet 3 — Chart
+
+Gross Sales vs Discounts comparison by Product
+
+Sheet 4 — Chart
+
+Sales distribution by Product and Discount Band
 
 ## Tools Used
 -Tableau Public
